@@ -1,0 +1,52 @@
+1. What are the different phases of an attack on a network, Explain with the help of illustrative diagram.
+2. What is the difference between proxy server and anonymizer.
+3. What are the different ways of password cracking.
+4. Give the categorization of password cracking methods and explain each one of them in brief.
+5. List out the guidelines to ensure strong and safe passwords.
+6. What are key loggers, List out the different types of keyloggers and explain them in brief.
+7. Write a note on anti-keyloggers.
+8. How can key-loggers be used to commit crimes.
+9. Define the following:
+  a. Spyware
+  b. Viruses and Worms
+  c. Trojan Horse
+  d. Rootkits
+  e. Backdoors
+  f. Botnets
+10. What is a malware. List out different types of malwares and explain each one of them in brief.
+11. State the difference between a virus and a worm.
+12. What is a virus. State different actions that can be executed by a virus and explain how a virus can spread through internet and through stand-alone systems.
+13. List out different types of viruses and explain them in brief.
+14. What is virus hoax.
+15. State the difference between trojan horse and backdoors.
+16. What are the functionalities of a backdoor.
+17. What is the difference between stegnography and cryptography.
+18. Explain how stegnography works with the help of illustrative diagram.
+19. Define steg analysis.
+20. Are counter measures employed against stegnography. Explain..
+21. What are the different types of DoS attacks, explain them in breif.
+22. Give the types or levels of DoS attack.
+23. List down the tools used to launch DoS attack.
+24. Explain and state the difference between DoS and DDoS.
+25. Explain how to protect the network from DoS and DDoS attack.
+26. What is SQL Injection and what are the different countermeasures to prevent this attack.
+27. Write down the steps for SQL Injection attack.
+28. What do you mean by Blind Sql Injection.
+29. What is Buffer Overflow, give the types of Buffer Overflow attacks and explain how to minimize and prevent buffer overflow attack.
+30. List down the different componenets of wireless networks and give the types of mobile workers in wireless networks.
+31. List down the tools for hacking wireless networks.
+32. What the different traditional approaches of attack on wireless networks.
+33. Give the different counter measures to secure wireless networks.
+34. Define the following:.
+  a. War Walking
+  b. War Biking
+  c. War Knitting
+  d. WAP Knitting
+  e. WAP Jacking
+35. Explain the different ways in which identity theft can be performed.
+36. What are the different methods of phishing.
+37. Give the categorization of phishing techniques and explain each one of them in breif.
+38. Explaint the sanitizing proxy system algorithm used for web phishing attack. Explain it with the help of illustrative flow-chart.
+39. List down the different information that can an attacker can steal from an individual.
+40. List down the different types of identity theft.
+41. Give the categorization of techniques for performing identity theft.

@@ -1,0 +1,50 @@
+Long Question -> Diagram, Detailed Definition, Types, Applications (Max 1.5 Page)
+
+Chapter 1:
+
+1. What is GenAI
+2. Discriminative and Generative Model (Difference)
+3. Types of GenAI (Based on Input and based on Data Distribution)
+4. Hallucination (Definition, Reasons)
+5. Overgeneralization (Definition)
+
+Chapter 2:
+
+1. Why is autoencoder not a generative model
+2. What is latent variable(z).
+3. Autoencoders (Long Question)
+4. How do we make autoencoder a generative model
+5. Variational Autoencoder (Long Question)
+6. Loss Optimization of VAE
+7. Challenges and Future Directions of VAE (Explain)
+8. Conditional VAE (Long Question)
+9. cVAE Traning and Inference phase (Short Questions)
+10. Diffusion Model (Definition and Architecture)
+11. What is importance of time step in diffusion process
+12. Explain Forward and Reverse process of Diffusion Model
+13. Importance of Beta(Noise Schedule)
+14. Importance of Positional Encoding in Diffusion Model
+15. Score based Diffusion Model (Long Question)
+16. Stable Diffusion Model (Long Question)
+17. cVAE and Diffusion Model (Comparision)
+
+Chapter 3:
+
+1. How can we sample from complex, high dimensional training distribution
+2. GAN (Short Questions)
+3. Explain Two Player Training for GAN
+4. Explain problem with Generator training, also discuss solution with graph
+5. Architecture guidelines for stable Deep Convulational GANs (Short Questions)
+6. cGAN (Long Question)
+7. Explain cGAN for Text-to-Image Generation/Synthesis
+8. Explain cGAN for Face Aging
+9. Cycle GAN (long Question)
+10. Importance of Skip Connection
+11. Coupled GAN (Long Question)
+12. Importance of weight sharing in early layers of generator
+
+Chapter 4:
+
+1. What is Self-Attention (Short Question)
+2. Explain Transformer Architecture (Long Question)
+

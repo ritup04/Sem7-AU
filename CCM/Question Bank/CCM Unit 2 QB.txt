@@ -1,0 +1,19 @@
+Review Questions:
+
+1. Why should mobile devices be protected.
+2. Write a note on proliferation of mobile and wireless devices.
+3. Write a note on categorisation of mobile and wireless devices.
+4. What are the mobility types. Quote day to day examples of your familiarity that relates to them.
+5. Discuss the popular types of attacks against mobile networks.
+6. Illustrate online environment for credit card transaction and discuss the elements of credit card frauds and its types.
+7. List down the fraud protection practices that should be followed by individual in case of credit card frauds.
+8. What are the security challenges posed by mobile devices.
+9. Discuss and describe in detail, categorisation of mobile phone security threats.
+10. List down and explain different types of attacks that can be performed on mobile phones or devices.
+11. Explain the counter-measures to be practised for possible attacks on mobile or cell phones.
+12. What kind of cybersecurity measures an organisation should have to take in case of portable storage devices, prepare security guidelines which can be implemented in an organisation.
+13. Explain the various measures for protection of laptops through physical measures and logical access control measures, prepare a laptop security check list that should be followed by an individual.
+14. Explain registry settings for mobile devices using suitable examples.
+15. Write a note on authentication service security.
+16. What are the common types of attacks on wireless mobile devices.
+17. State the organisational policies for the use of mobile hand held devices.

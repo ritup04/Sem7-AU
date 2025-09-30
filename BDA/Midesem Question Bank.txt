@@ -1,0 +1,27 @@
+UNIT - 1
+
+1. Structured, unstructured and semi-structured data
+2. Characteristics of Big Data
+3. Different formats of data
+4. Applications of Big Data
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+UNIT - 2
+
+1. HDFS (sum, theory, and architecture)
+2. Hadoop (sum + concept)
+3. Distributed File System
+4. MapReducing - Algorithm and Program (Java or Python)
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+UNIT - 3
+
+1. Database types (key-value, document-pair, column-based, etc.)
+2. MongoDB
+3. Difference between parallel and distributed systems
+4. Difference between RDBMS and NoSQL
+5. CAP Theorem

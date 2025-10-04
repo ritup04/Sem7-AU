@@ -23,17 +23,17 @@
 17. What is the difference between stegnography and cryptography.
 18. Explain how stegnography works with the help of illustrative diagram.
 19. Define steg analysis.
-20. Are counter measures employed against stegnography. Explain..
-21. What are the different types of DoS attacks, explain them in breif.
+20. Are counter measures employed against stegnography. Explain.
+21. What are the different types of DoS attacks, explain them in brief.
 22. Give the types or levels of DoS attack.
 23. List down the tools used to launch DoS attack.
 24. Explain and state the difference between DoS and DDoS.
 25. Explain how to protect the network from DoS and DDoS attack.
 26. What is SQL Injection and what are the different countermeasures to prevent this attack.
 27. Write down the steps for SQL Injection attack.
-28. What do you mean by Blind Sql Injection.
+28. What do you mean by Blind SQL Injection.
 29. What is Buffer Overflow, give the types of Buffer Overflow attacks and explain how to minimize and prevent buffer overflow attack.
-30. List down the different componenets of wireless networks and give the types of mobile workers in wireless networks.
+30. List down the different components of wireless networks and give the types of mobile workers in wireless networks.
 31. List down the tools for hacking wireless networks.
 32. What the different traditional approaches of attack on wireless networks.
 33. Give the different counter measures to secure wireless networks.
@@ -45,8 +45,8 @@
   e. WAP Jacking
 35. Explain the different ways in which identity theft can be performed.
 36. What are the different methods of phishing.
-37. Give the categorization of phishing techniques and explain each one of them in breif.
-38. Explaint the sanitizing proxy system algorithm used for web phishing attack. Explain it with the help of illustrative flow-chart.
+37. Give the categorization of phishing techniques and explain each one of them in brief.
+38. Explain the sanitizing proxy system algorithm used for web phishing attack. Explain it with the help of illustrative flow-chart.
 39. List down the different information that can an attacker can steal from an individual.
 40. List down the different types of identity theft.
 41. Give the categorization of techniques for performing identity theft.

@@ -1,0 +1,40 @@
+Practice Question on Unit -1
+Q-1 Blockchain is a distributed database. How it differ from traditional database?
+Ans: https://towardsdatascience.com/blockchains-versus-traditional-databases-e496d8584dc
+Q-2 Explain types of blockchain platform?
+Ans:  https://www.geeksforgeeks.org/types-of-blockchain/
+Q-3-What are the benefits of Blockchain Technology?
+Ans: https://intellipaat.com/blog/interview-question/blockchain-interview-questions/#10
+Q-4  What Is Hashing in Blockchain?
+Ans: https://blockchainsentry.com/blog/hashing-in-blockchain/
+Q-5 How do verifiers check if a block is valid?
+Ans: https://learn.saylor.org/mod/book/view.php?id=36380
+Q6. What is meant by ledger in blockchain? What Is a Cryptocurrency Public Ledger?
+Ans: In simple word the word ledger means records. 
+A cryptocurrency public ledger is a record-keeping system. The ledger maintains participants' identities anonymously, their respective cryptocurrency balances, and a record of all the genuine transactions executed between network participants.
+Q-7 How Do Merkle Trees Work?
+Ans:  https://www.geeksforgeeks.org/blockchain-merkle-trees/
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Practice Questions on Unit-2
+
+Q1. Write short notes on Permissioned Blockchain & Permissionless Blockchain. List out some real life examples of blockchain.
+Ans:-  https://www.geeksforgeeks.org/types-of-blockchain/
+
+Q2. what is consensus mechanism in blockchain? Explain various types of consensus mechanism in details with examples
+Ans:- Consensus mechanisms are the protocols, algorithms, or other computer systems that allow cryptocurrencies to work. They are systems of agreement that determine the validity of transactions and governance of the blockchain. There are different types of consensus mechanisms with various benefits and drawbacks.
+1. Proof-of-work (PoW):- https://www.investopedia.com/terms/p/proof-work.asp
+
+2. Proof-of-stake (PoS):-  https://www.investopedia.com/terms/p/proof-stake-pos.asp
+
+3. Proof-of-Activity (PoA):- https://www.investopedia.com/terms/p/proof-activity-cryptocurrency.asp
+
+4. Proof-of-Burn (PoB):- https://www.investopedia.com/terms/p/proof-burn-cryptocurrency.asp
+
+5. Proof-of-Elapsed Time (PoET):- https://www.investopedia.com/terms/p/proof-elapsed-time-cryptocurrency.asp
+
+6. Proof-of-Authority (PoA):- https://www.geeksforgeeks.org/proof-of-authority-consensus/
+
+7. Proof-of-Importance (PoI):- https://www.techopedia.com/definition/33599/proof-of-importance-poi
